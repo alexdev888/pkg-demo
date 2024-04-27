@@ -1,5 +1,5 @@
 ---
-"my-package": patch
+"alma888": patch
 ---
 
 Small patch :)

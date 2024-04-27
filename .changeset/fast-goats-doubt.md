@@ -1,5 +1,5 @@
 ---
-"my-package": patch
+"alma888": patch
 ---
 
 Added the add function
